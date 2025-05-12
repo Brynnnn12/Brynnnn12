@@ -2,9 +2,6 @@
 
 Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari [Metropolitan University](https://metrouni.edu.bd/). Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer**. Saya memiliki ketertarikan besar pada dunia teknologi dan gemar belajar secara mandiri.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" />
-</p>
 
 - 🌱 Saat ini sedang belajar **MERN Stack (MongoDB, Express.js, React, Node.js)**  
 - 👯 Siap berkolaborasi dalam proyek Web Development  
