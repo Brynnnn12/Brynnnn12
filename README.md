@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, Saya Bryan</h1>
+<h1 align="center">Brillyan Kurnia Akbar</h1>
 
-Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari [Metropolitan University](https://metrouni.edu.bd/). Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer**. Saya memiliki ketertarikan besar pada dunia teknologi dan gemar belajar secara mandiri.
+Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari [Universitas Bina Sarana Informatika](https://metrouni.edu.bd/). Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer**. Saya memiliki ketertarikan besar pada dunia teknologi dan gemar belajar secara mandiri.
 
 
 - 🌱 Saat ini sedang belajar **MERN Stack (MongoDB, Express.js, React, Node.js)**  
