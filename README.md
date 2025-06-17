@@ -5,9 +5,8 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina
 - 🌱 Saat ini sedang belajar **MERN Stack (MongoDB, Express.js, React, Node.js)**  
 - 🛡️ Memiliki ketertarikan pada dunia **Cyber Security**, terutama pada **Web Application Security**  
 - 🔍 Pernah menemukan celah keamanan **IDOR (Insecure Direct Object References)** dalam sebuah aplikasi  
-- 👯 Siap berkolaborasi dalam proyek Web Development maupun Cyber Security  
-- 🎯 Target tahun ini: Menjadi lebih mahir dalam Fullstack Development & Security Testing  
-- ⚡ Fakta menarik: Saya suka fotografi dan bermain video game 🎮  
+- 🎯 Target tahun ini: Menguasai pengembangan Fullstack secara mendalam serta memperluas keahlian dalam pengujian keamanan sistem
+- ⚡ Fakta menarik: Saya memiliki ketertarikan pada fotografi, bermain video game 🎮, sepak bola ⚽, dan membaca buku sejarah 📚
 
 ## 🛠️ Skill yang Sedang Dipelajari
 
@@ -44,14 +43,3 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina
 ![IDOR](https://img.shields.io/badge/Vulnerability-IDOR-critical?style=for-the-badge&logo=bugcrowd&logoColor=white)
 
 ---
-
-## 📫 Terhubung dengan Saya
-
-<p align="center">
-  <a href="https://instagram.com/brynnnn12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Brynnnn12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
