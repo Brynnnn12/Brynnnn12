@@ -1,12 +1,12 @@
 <h1 align="center">Brillyan Kurnia Akbar</h1>
 
-Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari [Universitas Bina Sarana Informatika](https://metrouni.edu.bd/). Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer**. Saya memiliki ketertarikan besar pada dunia teknologi dan gemar belajar secara mandiri.
-
+Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari [Universitas Bina Sarana Informatika](https://metrouni.edu.bd/). Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer** dan memiliki ketertarikan besar terhadap dunia **Cyber Security**. Saya gemar belajar secara mandiri dan tertantang untuk terus berkembang di bidang teknologi.
 
 - 🌱 Saat ini sedang belajar **MERN Stack (MongoDB, Express.js, React, Node.js)**  
-- 👯 Siap berkolaborasi dalam proyek Web Development  
-- 🤔 Sedang mencari mentor atau komunitas untuk memperdalam MERN Stack  
-- 🎯 Target tahun ini: Menjadi lebih mahir dalam Fullstack Development  
+- 🛡️ Memiliki ketertarikan pada dunia **Cyber Security**, terutama pada **Web Application Security**  
+- 🔍 Pernah menemukan celah keamanan **IDOR (Insecure Direct Object References)** dalam sebuah aplikasi  
+- 👯 Siap berkolaborasi dalam proyek Web Development maupun Cyber Security  
+- 🎯 Target tahun ini: Menjadi lebih mahir dalam Fullstack Development & Security Testing  
 - ⚡ Fakta menarik: Saya suka fotografi dan bermain video game 🎮  
 
 ## 🛠️ Skill yang Sedang Dipelajari
@@ -38,16 +38,20 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari [Universitas Bin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-## 📫 Terhubung dengan Saya:
-<a href="https://fb.com/Bryan Akbar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-<a href="https://instagram.com/brynnnn12" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://github.com/Brynnnn12" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
+### Cyber Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![IDOR](https://img.shields.io/badge/Vulnerability-IDOR-critical?style=for-the-badge&logo=bugcrowd&logoColor=white)
 
 ---
+
+## 📫 Terhubung dengan Saya
+
+<p align="center">
+  <a href="https://instagram.com/brynnnn12" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Brynnnn12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
