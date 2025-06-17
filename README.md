@@ -1,4 +1,17 @@
-<h1 align="center">Brynnnn</h1>
+<h1 align="center">👨‍💻 Bryan Kurnia Akbar</h1>
+<h3 align="center">Information Systems Student | Aspiring Fullstack Developer | Security Enthusiast</h3>
+
+<p align="center">
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[YOUR_GITHUB_URL]">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina Sarana Informatika. Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer** dan memiliki ketertarikan besar terhadap dunia **Cyber Security**. Saya gemar belajar secara mandiri dan tertantang untuk terus berkembang di bidang teknologi.
 
@@ -55,7 +68,7 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina
 > Laporan publik mengenai temuan celah keamanan **IDOR (Insecure Direct Object References)** di sebuah aplikasi web.
 
 * 📄 Write-up: [Lihat Laporan Publik](https://drive.google.com/file/d/1r9CpUv_y6P-w_gg2Q6H2LU6-7G6Dh3zz/view?usp=sharing)
-* 🔐 Tools digunakan: Burp Suite, Postman
+* 🔐 Tools digunakan: Burp Suite
 
 ---
 
