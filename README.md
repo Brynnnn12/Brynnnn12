@@ -1,9 +1,4 @@
-<h1 align="center">👋 Halo, saya Brillyan Kurnia Akbar!</h1>
-<h3 align="center">🚀 Fullstack Developer | 🟡 Web Security Enthusiast | 📚 Lifelong Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Mahasiswa+Sistem+Informasi;Belajar+Fullstack+%26+Cyber+Security;React+%7C+Node+%7C+MongoDB+%7C+Laravel;Let's+Build+%26+Secure+the+Web!" alt="Typing SVG">
-</p>
+<h1 align="center">Brillyan Kurnia Akbar!</h1>
 
 ---
 
@@ -68,21 +63,7 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina
 * 📘 **Fullstack Web Developer** – BuildWithAngga
 * 🔐 **Intro to Cyber Security** – Cisco Networking Academy
 
-## 🔥 Proyek Favorit
-
-### 🚗 **Car Wash Service App**
-
-> Aplikasi layanan cuci mobil berbasis MERN Stack, dengan fitur pemesanan, manajemen admin, dan integrasi pembayaran Midtrans.
-
-* 🔗 [GitHub Repo](https://github.com/username/car-wash-app)
-* 🚀 Fitur: Booking, Auth, Dashboard, Payment Gateway
-
-### 📄 **Sistem Informasi Desa (SID)**
-
-> Sistem pengajuan surat berbasis Laravel Filament + Livewire dengan PDF Generator, otentikasi multi-role, dan template dinamis.
-
-* 🔗 [GitHub Repo](https://github.com/username/sistem-informasi-desa)
-* 🧹 Fitur: Template Surat, Cetak PDF, Notifikasi, Role-based Access
+## 🔥 Proyek
 
 ### 🔍 **IDOR Vulnerability Reporting**
 
