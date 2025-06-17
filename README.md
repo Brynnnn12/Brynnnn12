@@ -1,4 +1,4 @@
-<h1 align="center">👋 Halo, saya Brillyan Kurnia Akbar!</h1>
+<h1 align="center">Brynnnn</h1>
 
 Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina Sarana Informatika. Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer** dan memiliki ketertarikan besar terhadap dunia **Cyber Security**. Saya gemar belajar secara mandiri dan tertantang untuk terus berkembang di bidang teknologi.
 
