@@ -1,6 +1,6 @@
 <h1 align="center">Brillyan Kurnia Akbar</h1>
 
-Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari [Universitas Bina Sarana Informatika](https://metrouni.edu.bd/). Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer** dan memiliki ketertarikan besar terhadap dunia **Cyber Security**. Saya gemar belajar secara mandiri dan tertantang untuk terus berkembang di bidang teknologi.
+Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina Sarana Informatika. Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer** dan memiliki ketertarikan besar terhadap dunia **Cyber Security**. Saya gemar belajar secara mandiri dan tertantang untuk terus berkembang di bidang teknologi.
 
 - 🌱 Saat ini sedang belajar **MERN Stack (MongoDB, Express.js, React, Node.js)**  
 - 🛡️ Memiliki ketertarikan pada dunia **Cyber Security**, terutama pada **Web Application Security**  
