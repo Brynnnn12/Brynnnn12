@@ -1,7 +1,5 @@
 <h1 align="center">Brillyan Kurnia Akbar!</h1>
 
----
-
 Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina Sarana Informatika. Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer** dan memiliki ketertarikan besar terhadap dunia **Cyber Security**. Saya gemar belajar secara mandiri dan tertantang untuk terus berkembang di bidang teknologi.
 
 * 🌱 Saat ini sedang belajar **MERN Stack (MongoDB, Express.js, React, Node.js)**
@@ -50,19 +48,6 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
 ![IDOR](https://img.shields.io/badge/Vulnerability-IDOR-critical?style=for-the-badge\&logo=bugcrowd\&logoColor=white)
 
-## 📢 Kontak
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:emailkamu@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/yourusername)
-
-## 🎓 Sertifikat
-
-* 🏆 **Belajar Membuat Aplikasi Web dengan React** – Dicoding
-* 🛡️ **Web Application Penetration Testing** – TryHackMe
-* 📘 **Fullstack Web Developer** – BuildWithAngga
-* 🔐 **Intro to Cyber Security** – Cisco Networking Academy
-
 ## 🔥 Proyek
 
 ### 🔍 **IDOR Vulnerability Reporting**
@@ -70,7 +55,7 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina
 > Studi kasus pribadi menemukan dan mendokumentasikan celah IDOR di aplikasi web internal (dokumentasi pribadi – tidak open source)
 
 * 📄 Write-up: *\[Private Report]*
-* 🔐 Tools digunakan: Burp Suite, Postman
+* 🔐 Tools digunakan: Burp Suite
 
 ---
 
