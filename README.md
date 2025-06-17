@@ -1,4 +1,4 @@
-<h1 align="center">Brillyan Kurnia Akbar!</h1>
+<h1 align="center">👋 Halo, saya Brillyan Kurnia Akbar!</h1>
 
 Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina Sarana Informatika. Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer** dan memiliki ketertarikan besar terhadap dunia **Cyber Security**. Saya gemar belajar secara mandiri dan tertantang untuk terus berkembang di bidang teknologi.
 
@@ -52,10 +52,10 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina
 
 ### 🔍 **IDOR Vulnerability Reporting**
 
-> Studi kasus pribadi menemukan dan mendokumentasikan celah IDOR di aplikasi web internal (dokumentasi pribadi – tidak open source)
+> Laporan publik mengenai temuan celah keamanan **IDOR (Insecure Direct Object References)** di sebuah aplikasi web.
 
-* 📄 Write-up: *\[Private Report]*
-* 🔐 Tools digunakan: Burp Suite
+* 📄 Write-up: [Lihat Laporan Publik](https://drive.google.com/file/d/1r9CpUv_y6P-w_gg2Q6H2LU6-7G6Dh3zz/view?usp=sharing)
+* 🔐 Tools digunakan: Burp Suite, Postman
 
 ---
 
