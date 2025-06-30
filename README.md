@@ -1,11 +1,11 @@
 <h1 align="center">👨‍💻 Bryan Kurnia Akbar</h1>
 
-Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina Sarana Informatika. Saat ini saya sedang fokus belajar untuk menjadi seorang **Fullstack Developer** dan memiliki ketertarikan besar terhadap dunia **Cyber Security**. Saya gemar belajar secara mandiri dan tertantang untuk terus berkembang di bidang teknologi.
+Saya sedang fokus belajar untuk menjadi seorang **Backend Developer** dan memiliki minat yang kuat dalam bidang **Cyber Security**, terutama pada keamanan aplikasi web. Saya gemar belajar secara mandiri dan tertantang untuk terus mengembangkan kemampuan teknis di dunia teknologi informasi.
 
-* 🌱 Saat ini sedang belajar **MERN Stack (MongoDB, Express.js, React, Node.js)**
+* 🌱 Saat ini sedang memperdalam **Node.js, Express.js, REST API**, dan **Database (MySQL & MongoDB)**
 * 🛡️ Memiliki ketertarikan pada dunia **Cyber Security**, terutama pada **Web Application Security**
 * 🔍 Pernah menemukan celah keamanan **IDOR (Insecure Direct Object References)** dalam sebuah aplikasi
-* 🎯 Target tahun ini: Menguasai pengembangan Fullstack secara mendalam serta memperluas keahlian dalam pengujian keamanan sistem
+* 🎯 Target tahun ini: Meningkatkan keahlian di bidang **Backend Development** serta memperdalam pemahaman mengenai **Cyber Security** dan **penetration testing**
 * ⚡ Fakta menarik: Saya memiliki ketertarikan pada fotografi, bermain video game 🎮, sepak bola ⚽, dan membaca buku sejarah 📚
 
 ## 🛠️ Skill yang Sedang Dipelajari
@@ -36,9 +36,11 @@ Saya adalah seorang mahasiswa jurusan **Sistem Informasi** dari Universitas Bina
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=Postman\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge\&logo=data\:image/svg+xml;base64,...\&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### Sistem Operasi
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
