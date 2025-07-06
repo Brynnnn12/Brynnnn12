@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Bryan Kurnia Akbar</h1>
 
-Saya sedang fokus belajar untuk menjadi seorang **Backend Developer** dan memiliki minat yang kuat dalam bidang **Cyber Security**, terutama pada keamanan aplikasi web. Saya gemar belajar secara mandiri dan tertantang untuk terus mengembangkan kemampuan teknis di dunia teknologi informasi.
+Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat khusus pada Red Team dan Penetration Testing, terutama dalam keamanan aplikasi web. Saya gemar belajar secara mandiri dan tertantang untuk terus mengembangkan kemampuan teknis di dunia teknologi informasi.
 
 * 🌱 Saat ini sedang memperdalam **Node.js, Express.js, REST API**, dan **Database (MySQL & MongoDB)**
 * 🛡️ Memiliki ketertarikan pada dunia **Cyber Security**, terutama pada **Web Application Security**
