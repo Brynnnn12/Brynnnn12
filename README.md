@@ -12,43 +12,65 @@ Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat
 
 ### Bahasa Pemrograman
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Framework & Library
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & IDE
 
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=Postman\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge\&logo=data\:image/svg+xml;base64,...\&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### Sistem Operasi
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Cyber Security
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge\&logo=burpsuite\&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
-![IDOR](https://img.shields.io/badge/Vulnerability-IDOR-critical?style=for-the-badge\&logo=bugcrowd\&logoColor=white)
+#### Reconnaissance
+![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=for-the-badge&logo=nmap&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-323330?style=for-the-badge&logo=OWASP&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-0F111A?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Assetfinder](https://img.shields.io/badge/Assetfinder-2C3E50?style=for-the-badge&logo=search&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)
+
+#### Scanning & Enumeration
+![Nikto](https://img.shields.io/badge/Nikto-FF5722?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-222222?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-4CAF50?style=for-the-badge&logo=search&logoColor=white)
+![Katana](https://img.shields.io/badge/Katana-222222?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+#### Vulnerability Identification
+![IDOR](https://img.shields.io/badge/Vulnerability-IDOR-critical?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black)
+![Nuclei](https://img.shields.io/badge/Nuclei-323330?style=for-the-badge&logo=OWASP&logoColor=white)
+![Mantra](https://img.shields.io/badge/Mantra-6A1B9A?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![GitDumper](https://img.shields.io/badge/GitDumper-222222?style=for-th
+
+#### Reporting
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![CVSS Calculator](https://img.shields.io/badge/CVSS_Calculator-00599C?style=for-the-badge&logo=common%20vulnerability%20scoring%20system&logoColor=white)
+
 
 ## 🔥 Proyek
 
