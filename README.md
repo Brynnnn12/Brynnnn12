@@ -2,9 +2,9 @@
 
 Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat khusus pada Red Team dan Penetration Testing, terutama dalam keamanan aplikasi web. Saya gemar belajar secara mandiri dan tertantang untuk terus mengembangkan kemampuan teknis di dunia teknologi informasi.
 
-* 🌱 Saat ini sedang memperdalam **Node.js, Express.js, REST API**, dan **Database (MySQL & MongoDB)**
+* 🌱 Saat ini sedang memperdalam teknologi **TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire)** dan **MERN Stack (MongoDB, Express.js, React, Node.js)**, serta REST API dan Database (MySQL & MongoDB)
 * 🛡️ Memiliki ketertarikan pada dunia **Cyber Security**, terutama pada **Web Application Security**
-* 🔍 Pernah menemukan celah keamanan **IDOR (Insecure Direct Object References)** dalam sebuah aplikasi
+* 🔍 Pernah menemukan celah keamanan **IDOR (Insecure Direct Object References)**, **XSS (Cross-Site Scripting)**, **SQL Injection**, dan **Remote Code Execution** dalam sebuah web
 * 🎯 Target tahun ini: Meningkatkan keahlian di bidang **Backend Development** serta memperdalam pemahaman mengenai **Cyber Security** dan **penetration testing**
 * ⚡ Fakta menarik: Saya memiliki ketertarikan pada fotografi, bermain video game 🎮, sepak bola ⚽, dan membaca buku sejarah 📚
 
