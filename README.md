@@ -65,7 +65,7 @@ Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat
 ![SQLMap](https://img.shields.io/badge/SQLMap-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black)
 ![Nuclei](https://img.shields.io/badge/Nuclei-323330?style=for-the-badge&logo=OWASP&logoColor=white)
 ![Mantra](https://img.shields.io/badge/Mantra-6A1B9A?style=for-the-badge&logo=bugcrowd&logoColor=white)
-![GitDumper](https://img.shields.io/badge/GitDumper-222222?style=for-th
+![GitDumper](https://img.shields.io/badge/GitDumper-222222?style=for-the-badge&logo=github&logoColor=white)
 
 #### Reporting
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
