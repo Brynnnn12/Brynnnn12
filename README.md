@@ -1,8 +1,8 @@
-<h1 align="center">👨‍💻 Bryan Kurnia Akbar</h1>
+# <h1 align="center">👨‍💻 Bryan Kurnia Akbar</h1>
 
-Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat khusus pada Red Team dan Penetration Testing, terutama dalam keamanan aplikasi web. Saya gemar belajar secara mandiri dan tertantang untuk terus mengembangkan kemampuan teknis di dunia teknologi informasi.
+Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat khusus pada Red Team dan Penetration Testing, terutama dalam keamanan aplikasi web. Saya gemar belajar secara mandiri dan berbagi temuan.
 
-* 🌱 Saat ini sedang memperdalam teknologi **TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire)** dan **MERN Stack (MongoDB, Express.js, React, Node.js)**, serta REST API dan Database (MySQL & MongoDB)
+* 🌱 Saat ini sedang memperdalam teknologi **TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire)**, **MERN Stack (MongoDB, Express.js, React, Node.js)**, serta REST API dan Database (MySQL, PostgreSQL). Saya juga memperkenalkan diri pada ekosistem **TypeScript, NestJS, dan Next.js** untuk pengembangan backend dan full-stack yang lebih terstruktur.
 * 🛡️ Memiliki ketertarikan pada dunia **Cyber Security**, terutama pada **Web Application Security**
 * 🔍 Pernah menemukan celah keamanan **IDOR (Insecure Direct Object References)**, **XSS (Cross-Site Scripting)**, **SQL Injection**, dan **Remote Code Execution** dalam sebuah web
 * 🎯 Target tahun ini: Meningkatkan keahlian di bidang **Backend Development** serta memperdalam pemahaman mengenai **Cyber Security** dan **penetration testing**
@@ -15,13 +15,16 @@ Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Framework & Library
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -29,6 +32,7 @@ Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & IDE
 
