@@ -1,11 +1,11 @@
 # <h1 align="center">👨‍💻 Bryan Kurnia Akbar</h1>
 
-Saya sedang fokus belajar untuk berkarier di bidang Cyber Security, dengan minat khusus pada Red Team dan Penetration Testing, terutama dalam keamanan aplikasi web. Saya gemar belajar secara mandiri dan berbagi temuan.
+Lulusan D3 yang sedang membangun karier sebagai **Backend Developer** dengan fokus pada **NestJS** dan **Laravel**. Saat ini saya masih di tahap belajar, senang mengeksplorasi praktik terbaik, serta terbuka untuk bimbingan dan kolaborasi. Di sisi lain, saya juga memperdalam dasar **Cyber Security** dan penetration testing.
 
-* 🌱 Saat ini sedang memperdalam teknologi **TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire)**, **MERN Stack (MongoDB, Express.js, React, Node.js)**, serta REST API dan Database (MySQL, PostgreSQL). Saya juga memperkenalkan diri pada ekosistem **TypeScript, NestJS, dan Next.js** untuk pengembangan backend dan full-stack yang lebih terstruktur.
-* 🛡️ Memiliki ketertarikan pada dunia **Cyber Security**, terutama pada **Web Application Security**
-* 🔍 Pernah menemukan celah keamanan **IDOR (Insecure Direct Object References)**, **XSS (Cross-Site Scripting)**, **SQL Injection**, dan **Remote Code Execution** dalam sebuah web
-* 🎯 Target tahun ini: Meningkatkan keahlian di bidang **Backend Development** serta memperdalam pemahaman mengenai **Cyber Security** dan **penetration testing**
+* 🌱 Sedang mendalami **backend development** dengan **NestJS**, **Laravel**, pembuatan **REST API**, serta pengelolaan database **MySQL** dan **PostgreSQL**.
+* 🛡️ Mengembangkan kemampuan **Web Application Security**; baru menyelesaikan bootcamp pentest dan menemukan 4 celah: **IDOR**, **SQL Injection**, **XSS**, dan **RCE**.
+* 🔍 Tertarik menggabungkan pemahaman backend dan keamanan untuk membangun sistem yang aman dan terukur.
+* 🎯 Target tahun ini: meningkatkan portofolio backend (API, auth, testing) dan memperkuat dasar **penetration testing**.
 * ⚡ Fakta menarik: Saya memiliki ketertarikan pada fotografi, bermain video game 🎮, sepak bola ⚽, dan membaca buku sejarah 📚
 
 ## 🛠️ Skill yang Sedang Dipelajari
