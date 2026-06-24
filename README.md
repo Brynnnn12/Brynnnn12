@@ -2,15 +2,15 @@
   
 # 🏴‍☠️ Bryan Kurnia Akbar
 
-### ☢️ Penetration Testing Learner | Security Enthusiast
+### ☢️ Aspiring Penetration Tester | Application Security Enthusiast
 
-*Learning to break systems ethically. Always on the offensive learning curve.*
+*Information Systems student bridging the gap between web development and offensive security. I break systems to understand how to build them better.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brillyan-kurnia-akbar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryankurniaakbar12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brynnnn12)
 
-**🎯 Security Researcher** | **📍 Indonesia** | **💻 Penetration Testing**
+**🎯 Security Researcher** | **📍 Indonesia** | **💻 Web Application Security**
 
 </div>
 
@@ -18,28 +18,30 @@
 
 ## ⚙️ `whoami`
 
-Cyber Security Enthusiast yang sedang belajar penetration testing. Saat ini fokus pada **hands-on learning** melalui lab environments seperti DVWA dan PortSwigger Academy.
+I am an Information Systems student and Junior Fullstack Developer pivoting into Cyber Security. With a strong foundation in building web applications using **Laravel, React, Next.js, and Express**, I bring a unique "builder's perspective" to penetration testing. 
 
-**🎓 Learning Path:**
+Currently, I am heavily focused on **hands-on offensive learning** through lab environments like DVWA and PortSwigger Academy, running tools locally on Kali Linux.
+
+**🎓 Security Learning Path:**
 - 🔴 **SQL Injection** - Understanding query manipulation & database attacks
 - 🔴 **Cross-Site Scripting (XSS)** - Stored, reflected, & DOM-based XSS
 - 🔴 **IDOR** - Insecure Direct Object References
-- 🟠 **Web Security Fundamentals** - Burp Suite, request manipulation, exploitation
+- 🟠 **Web Security Fundamentals** - Request manipulation, exploitation, and mitigation
 
 ---
 
 ## 🎯 Looking For
 
-**Posisi di bidang Security:**
-- Bug Bounty Hunter / Penetration Tester
-- Security Analyst / SOC
+**Roles:**
+- Junior Penetration Tester / Bug Bounty Hunter
+- Security Analyst / SOC Tier 1
 - Application Security Engineer
 
-**Ideal Company:** Menghargai security research, mendukung bug bounty, dan continuous learning.
+**Ideal Environment:** A team that values continuous learning, security research, and supports transitioning developers into security professionals.
 
 ---
 
-## � Arsenal
+## ⚔️ Arsenal
 
 **Offensive Tools:**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -47,9 +49,10 @@ Cyber Security Enthusiast yang sedang belajar penetration testing. Saat ini foku
 ![SQLMap](https://img.shields.io/badge/SQLMap-3776AB?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-2B6698?style=for-the-badge&logo=nmap&logoColor=white)
 
-**Expertise:** OWASP Top 10 • Web App Testing • API Security • Manual Exploitation • Vulnerability Assessment • CVSS Scoring
+**Development Stack (The Builder Side):**
+Laravel • React • Next.js • Express.js • SQL
 
-**Tools:** Burp Suite • SQLMap • OWASP ZAP • Nmap • Subfinder • Nuclei • Dirsearch • Python scripting
+**Knowledge Areas:** OWASP Top 10 • Web App Testing • API Security • Manual Exploitation • Vulnerability Assessment • Whitebox Testing
 
 ---
 
@@ -66,30 +69,27 @@ Cyber Security Enthusiast yang sedang belajar penetration testing. Saat ini foku
 | **HackTheBox** | Real-world scenarios & CTFs | 📚 Learning |
 | **TryHackMe** | Structured learning paths | 📚 Learning |
 
-**Learning Methodology:** Manual testing techniques → Burp Suite workflow → Vulnerability identification → Documentation
-
-**Goal:** Transition from lab training to real-world penetration testing experience
+**Learning Methodology:** Manual testing techniques → Burp Suite workflow → Vulnerability identification → Secure Code Review
 
 ---
 
 ## 📚 Learning Goals (2026)
 
-- ☢️ Master OWASP Top 10 vulnerabilities
+- ☢️ Master OWASP Top 10 vulnerabilities & mitigation
 - 🔓 Complete PortSwigger Web Security Academy
 - 🐍 Learn Python for security automation
-- 🎖️ eJPT certification (2026 Q2)
-- 🐛 Start bug bounty hunting (after lab mastery)
-- 🛡️ Active Directory & privilege escalation
+- 🎖️ Achieve eJPT certification (2026 Q2)
+- 🐛 Start active bug bounty hunting (after lab mastery)
+- 🗣️ Improve Technical English for professional security reporting
 
 ---
 
 ## 🚀 What I'm Building
 
-✅ **Hands-On Learning** - Actively practicing on DVWA & PortSwigger labs  
-✅ **Manual Testing Skills** - Learning Burp Suite & request manipulation  
-✅ **OWASP Understanding** - Building foundational knowledge of web vulnerabilities  
-✅ **Security Research Mindset** - Developing attacker perspective through lab work  
-✅ **Self-Motivated** - Dedicated to continuous learning & skill improvement
+✅ **Bridging Dev & Sec** - Applying my web development knowledge to understand how vulnerabilities occur at the source-code level.  
+✅ **Hands-On Practice** - Actively attacking DVWA & PortSwigger labs.  
+✅ **Manual Testing Skills** - Mastering Burp Suite & request manipulation.  
+✅ **Security Research Mindset** - Developing an attacker's perspective while keeping a developer's logic.  
 
 ---
 
@@ -97,12 +97,11 @@ Cyber Security Enthusiast yang sedang belajar penetration testing. Saat ini foku
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brillyan-kurnia-akbar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryankurniaakbar12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brynnnn12)
 
-**📍 Indonesia** | **💼 Open for opportunities** | **🌐 Remote / Onsite**
+**📍 Indonesia** | **💼 Open for Junior / Entry-Level Opportunities** | **🌐 Remote / Onsite**
 
 ---
 
-> *"I break things to secure them. Give me a target, I'll show you the vulnerability."*
+> *"I break things to secure them. Because I know how to build them, I know exactly where they might break."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Brynnnn12&color=green&style=flat-square)
