@@ -51,7 +51,9 @@ A collaborative environment that values continuous learning, security research, 
 ### Offensive Security Tools
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge&logo=caido&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2B6698?style=for-the-badge&logo=nmap&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-3776AB?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
